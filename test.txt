@@ -1,2 +1,0 @@
-This is a testing file, containing nothing.
-This is the second line.
